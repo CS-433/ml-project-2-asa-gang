@@ -49,7 +49,7 @@ Simply run the following (as an example):
 python run.py --config configs/baseline_per_run.ini
 ```
 ## Pretrained models
-Logs and pretrained models are available [here](https://drive.google.com/drive/folders/1688niY2Rm8huDYMHTo0iagA0MlwZG1IR?usp=sharing)
+Logs and pretrained models are available [here](https://drive.google.com/drive/folders/1688niY2Rm8huDYMHTo0iagA0MlwZG1IR?usp=sharing).
 ## Team Members
 
 This project belongs to the team `ASA_GANG` with members:
